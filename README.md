@@ -1,6 +1,6 @@
 Xenia-Chain - A new way to trade on Solana with added leverage.
 
-We have a mission to bring more to the Solana blockchain that others have been using to boost liquidity and Xenia-Chain is othe first step.
+We have a mission to bring more to the Solana blockchain that others have been using to boost liquidity and Xenia-Chain is on the first step.
 
 Building has begun and soon Solana will reach new heights.
 
